@@ -246,8 +246,8 @@ ol {
 	text-decoration: none;
 }
 
-.content__card-link:focus,
-.button:focus {
+.button:focus,
+.content__card-link:focus {
 	outline: none;
 }
 
